@@ -26,3 +26,5 @@ coverage/
 
 *.tgz
 *.zip
+
+.devcontainer/
